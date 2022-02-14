@@ -1,0 +1,55 @@
+body
+{
+    background-color: #c5d5ba;
+}
+h1
+{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaca;
+    font-style: italic;
+}
+p
+{
+    color: #707070;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 28px;
+    text-align: left;
+}
+code
+{
+    background-color: #eaeaca;
+    color: #86a96f;
+}
+img
+{
+    border-style: solid;
+    border-color: #7ca163;
+    border-width: 5px;
+}
+.navbar{
+ background:#86a96f;
+}
+.nav-link , .navbar-brand{
+ color: #f4f4f4;
+ cursor: pointer;
+}
+.nav-link{
+ margin-right: 1em !important;
+}
+.nav-link:hover{
+ background: #f4f4f4;
+ color: #86a96f;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+footer
+{
+    font-size: 20px;
+}
